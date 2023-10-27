@@ -1,2 +1,5 @@
-# serilog-formatting-bufferwriter
-Integration package for Serilog sinks and formatters for writing events in IBufferWriter&lt;byte>.
+# Serilog.Formatting.BufferWriter
+
+Integration package for [Serilog](https://serilog.net) sinks and formatters for writing events in `IBufferWriter<byte>`.
+
+Provides only one interface: `IBufferWriterFormatter`
