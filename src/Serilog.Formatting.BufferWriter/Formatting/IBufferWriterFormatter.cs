@@ -4,7 +4,6 @@ using Serilog.Events;
 
 namespace Serilog.Formatting;
 
-
 /// <summary>
 /// Formats log events into <see cref="IBufferWriter{Byte}"/>
 /// </summary>
